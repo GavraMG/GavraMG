@@ -1,4 +1,4 @@
-# ⌨️ Markus Gavra 👋
+# Markus Gavra 
 
 **'Digital Craftsman (Entry Level Software Engineer)'**
 <!--
