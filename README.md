@@ -1,4 +1,5 @@
-### Hi there 👋
+# ![UkUnitedKingdomGIF](https://github.com/GavraMG/GavraMG/assets/145468935/79e472c7-ef69-40ad-9ee0-c8575847993a)
+Markus Gavra 👋
 
 <!--
 **GavraMG/GavraMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
