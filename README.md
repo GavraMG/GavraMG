@@ -14,9 +14,9 @@
  
  🌱 I’m currently learning **JavaScript, Python, C**
 
-💬 Ask me about **C, Web Development... or anything [here]((https://github.com/GavraMG))**
+💬 Ask me about **Java, Web Development... or anything [here]((https://github.com/GavraMG))**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact ** Java, a popular programming language, was named after coffee, inspired by the developers' love for Java coffee.**
 
  </div>
  
