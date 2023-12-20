@@ -11,8 +11,10 @@
 <div align="center">
  
  🔭 I’m currently looking for **an internship**
+
+ 💪 I Love to hit the gym and stay active.
  
- 🌱 I’m currently learning **JavaScript, Python, C**
+ 📖 I’m currently learning **JavaScript, Python, C**
 
 💬 Ask me about **Java, Web Development... or anything [here](https://github.com/GavraMG/GavraMG/issues)**
 
