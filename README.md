@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GavraMG.GavraMG" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Markus+Gavra!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F79111&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Markus+Gavra!;" />
 </h1>
 
 <h3 align="center">🍁 Entry-Level Software Engineer | Passionate Learner & Coder | University of Guelph Student | Exploring the Tech World, One Code Line at a Time 🚀"</h3>
